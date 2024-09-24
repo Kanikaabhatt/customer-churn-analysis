@@ -15,3 +15,13 @@ A Telecom Company want to have a dashboard that visualize the Customer Retention
 - Tickets raised by customers in Admin and Tech issues are 885 and 2173 respectively.
 
 - The Fiber Optic Internet Service is facing huge churn as compared to DSL Service which is 69.40%.
+
+## Suggestions:
+
+- To retain the customers the company has to work on certain services which the are providing majorly the Phone Service, the Fiber Optic Internet Service, Streaming TV and Movies.
+
+- Company can provide certain offers to the customers while opting for the payment using Credit card and Electronic check mode. The offers will attract more customers and reduce the churn.
+
+- The company should extend the contract term from Month-to-month to Half Yearly or Quarterly term  as the long term customers are lesser to get churn.
+
+- Exiting offers can be given to the Senior citizens to retain them.
