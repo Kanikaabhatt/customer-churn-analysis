@@ -1,5 +1,7 @@
 # Customer Churn Analysis
 
+## Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=223f6730-945e-4ff2-be03-170432313ba1&autoAuth=true&ctid=0550872c-d65c-46c7-863e-1d89566905ce
+
 ## Problem Statement
 
 A Telecom Company want to have a dashboard that visualize the Customer Retention. As the Customers are hard earned for any company so the Telecom company want to retain its customers by deep diving into the matter responsible. This dashboard will help the company to have a look in the areas that are the reason of the customer's Churn.
